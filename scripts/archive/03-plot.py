@@ -1,4 +1,3 @@
-# Reviewed for the field season report.
 # Plot the daily temperature readings
 # Prints a simple text chart, one bar per reading.
 
